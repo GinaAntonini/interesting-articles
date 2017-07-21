@@ -1,0 +1,29 @@
+/*GENERAL STYLING*/
+
+body {
+	background-color: lightpink;
+}
+
+h1 {
+	font-family: 'Architects Daughter', cursive;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 30px;
+}
+
+/*MARGIN STYLING*/
+
+div {
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+/*ARTICLE BORDERS */
+
+.article-one, .article-two, .article-three, .article-four, .article-five {
+	background-color: bisque;
+	border-style: double;
+	border-radius: 25px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
