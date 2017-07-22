@@ -20,10 +20,61 @@ div {
 
 /*ARTICLE BORDERS */
 
-.article-one, .article-two, .article-three, .article-four, .article-five {
+.article-one {
+	font-family: 'Zilla Slab', serif;
+	font-size: 17px;
+	color: indigo;
+	line-height: 15px;
 	background-color: bisque;
 	border-style: double;
-	border-radius: 25px;
+	border-radius: -1em;
+	padding: 5%;
+}
+
+.article-two {
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+	color: deeppink;
+	line-height: 20px;
+	background-color: brown;
+	border-style: double;
+	border-radius: 5em;
+	padding-left: 3%;
+	padding-right: 3%;
+	text-align: center;
+}
+
+.article-three {
+	font-family: 'Noto Serif', serif;
+	font-size: 22px;
+	color: white;
+	line-height: 25px;
+	background-color: green;
+	border-style: double;
+	border-radius: 2em 1em 4em 1em;
 	padding-left: 10px;
 	padding-right: 10px;
 }
+
+.article-four {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 24px;
+	color: brown;
+	line-height: 30px;
+	background-color: lightblue;
+	border-style: double;
+	border-radius: 15em 2em 12em 3em;
+	padding: 10%;
+}
+.article-five {
+	font-family: 'Signika', sans-serif;
+	font-size: 26px;
+	color: darkred;
+	line-height: 35px;
+	background-color: orange;
+	border-style: double;
+	border-radius: 20em;
+	padding: 15%;
+	text-align: center;
+}
+
