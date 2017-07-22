@@ -38,7 +38,7 @@ div {
 	line-height: 20px;
 	background-color: brown;
 	border-style: double;
-	border-radius: 5em;
+	border-radius: 5%;
 	padding-left: 3%;
 	padding-right: 3%;
 	text-align: center;
@@ -51,7 +51,7 @@ div {
 	line-height: 25px;
 	background-color: green;
 	border-style: double;
-	border-radius: 2em 1em 4em 1em;
+	border-radius: 2% 1% 4% 1%;
 	padding-left: 10px;
 	padding-right: 10px;
 }
@@ -63,7 +63,7 @@ div {
 	line-height: 30px;
 	background-color: lightblue;
 	border-style: double;
-	border-radius: 15em 2em 12em 3em;
+	border-radius: 15% 2% 12% 3%;
 	padding: 10%;
 }
 .article-five {
@@ -73,7 +73,7 @@ div {
 	line-height: 35px;
 	background-color: orange;
 	border-style: double;
-	border-radius: 20em;
+	border-radius: 20%;
 	padding: 15%;
 	text-align: center;
 }
